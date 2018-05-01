@@ -5,4 +5,4 @@ A simple css style definitions that is used for presenting any number of game im
 Developed for roulettepractice.co.uk to present [free roulette games list] (http://www.roulettepractice.co.uk/free-roulette.html) online for both desktop and mobile.
 
 ## Usage
-See example.html - First you create a wrapper - '<div class="image_list">'. Inside that div you can add as many item as you would like, each item (image + link) should be wrapped with '<div class="image_list_item">'
+See example.html - First you create a wrapper - `<div class="image_list">`. Inside that div you can add as many item as you would like, each item (image + link) should be wrapped with `<div class="image_list_item">`
